@@ -17,7 +17,7 @@ index: false
 
 # Mysql 教程
 
-![](F:/Java_notes/images-master/snap/202309212108260.png)
+![](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/snap/202309212108260.png)
 
 ## 📖 内容
 

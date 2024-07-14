@@ -12,7 +12,7 @@ index: false
 
 <p align="center">
     <a href="https://dunwu.github.io/db-tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="F:/Java_notes/images-master/common/dunwu-logo.png" alt="logo" width="150px"/>
+        <img src="https://github.com/zuijunzi9/Java_notes/tree/main/images-master/common/dunwu-logo.png" alt="logo" width="150px"/>
     </a>
 </p>
 

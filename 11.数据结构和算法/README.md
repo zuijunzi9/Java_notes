@@ -12,7 +12,7 @@ index: false
 
 <p align="center">
     <a href="https://dunwu.github.io/algorithm-tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="F:/Java_notes/images-master/common/dunwu-logo.png" alt="logo" width="150px"/>
+        <img src="https://github.com/zuijunzi9/Java_notes/tree/main/images-master/common/dunwu-logo.png" alt="logo" width="150px"/>
     </a>
 </p>
 
@@ -47,7 +47,7 @@ index: false
 
 ## 📖 内容
 
-![img](F:/Java_notes/images-master/snap/20200702071922.png)
+![img](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/snap/20200702071922.png)
 
 - 综合
   - [数据结构和算法指南](00.综合/01.数据结构和算法指南.md)

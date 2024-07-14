@@ -15,7 +15,7 @@ index: false
 
 # Git 教程
 
-![git脑图](F:/Java_notes/images-master/cs/web/git/git-summary.png)
+![git脑图](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/cs/web/git/git-summary.png)
 
 ## 📖 内容
 

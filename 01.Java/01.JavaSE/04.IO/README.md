@@ -22,19 +22,19 @@ index: false
 
 > 关键词：`InputStream`、`OutputStream`、`Reader`、`Writer`
 
-![img](F:/Java_notes/images-master/snap/20200630202823.png)
+![img](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/snap/20200630202823.png)
 
 ### [Java NIO](02.JavaNIO.md)
 
 > 关键词：`Channel`、`Buffer`、`Selector`、`非阻塞`、`多路复用`
 
-![img](F:/Java_notes/images-master/snap/20200630203739.png)
+![img](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/snap/20200630203739.png)
 
 ### [Java 序列化](03.Java序列化.md)
 
 > 关键词：`Serializable`、`serialVersionUID`、`transient`、`Externalizable`、`writeObject`、`readObject`
 
-![img](F:/Java_notes/images-master/snap/20200630204142.png)
+![img](https://github.com/zuijunzi9/Java_notes/tree/main/images-master/snap/20200630204142.png)
 
 ### [Java 网络编程](04.Java网络编程.md)
 
